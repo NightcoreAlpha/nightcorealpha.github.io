@@ -1,0 +1,88 @@
+* {margin:0;padding:0;}
+body {background-color:pink;font-family:'Arial';}
+
+#page {width:940px;margin:0 auto;}
+
+header {height:615px;}
+header .logo {float:left;}
+header .logo img {margin:23px 0px 15px 0px;}
+header .otaku {float:right;margin-top:30px;font-size:30px;font-family:'Arial';}
+
+nav {clear:both;height:60px;background-color:#759fff;border-radius:8px 8px 0px 0px;}
+nav ul {list-style:none;}
+nav ul li {float:left;margin:17px 20px;font-size:20px;font-family:'Georgia';font-style:italic;}
+nav ul li a {color:#f7f6c5;text-decoration:none;}
+nav ul li a:hover {text-decoration:underline;}
+
+.header_img {height:435px;background-color:#759fff;border-radius:0px 0px 8px 8px;margin-bottom:15px;width:940px;}
+.nvidia_img {height:435px;background-color:gray;border-radius:0px 0px 8px 8px;margin-bottom:15px;width:940px;
+background: url(https://techfans.co.uk/wp-content/uploads/2020/08/Tsj2rYpSQ5SrUGfywMUYnk-1200-80.jpg) no-repeat center/cover;
+}
+
+#content {clear:both;}
+#content h1 {font-size:28px;font-family:'Georgia';font-style:italic;font-weight:normal;margin-bottom:20px;}
+#content img.float-right {float:right;margin:0px 0px 15px 15px;}
+#content p {margin-bottom:15px;}
+
+footer {clear:both;border-top:4px #027fd5 solid;margin-top:30px;padding:15px 0px;font-size:18px;
+margin:30px auto 30px;}
+footer a {color:#000;text-decoration:underline;}
+footer a:hover {text-decoration:none;}
+
+.ya-news__title
+{font-size:80%;font-weight:700;margin-bottom:.5em;text-decoration:underline}
+.ya-news__date
+{font-size:80%;margin-right:.5em}
+.ya-news__informer
+{font-size:60%;margin-bottom:.3em}
+.ya-news__description
+{font-size:60%;margin-bottom:.5em}
+.ya-news__all
+{font-size:55%;margin-top:.3em}
+body
+{background-image: url(https://images.vfl.ru/ii/1415104412/dc2f9b0e/6841156.jpg);
+background-size: 100% 100%;
+background-attachment: fixed;}
+.news
+{background: gray;
+border: solid 2px black;
+position: relative;
+float: left
+position: relative;
+width: 600px;height:155px; 
+display: inline-block;
+line-height: 21px;
+vertical-align: top;
+margin-right: -4px;
+overflow: hidden;
+}
+#Pogoda
+{float:none; background:BLACK;height: 155px; width:120;border: solid 2px black;}
+#vid
+{}
+#page2
+{background-image: url(http://getwallpapers.com/wallpaper/full/8/3/6/370508.jpg);
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+#zagolovok
+{margin:30px auto 30px;font-size:30px;font-family:'Arial'; right: 50%;font-size: 66px;}
+#table
+{height: AUTO;font-size: 25px;}
+#nvid
+{background: linear-gradient(75deg, lightblue, green);border:5px solid grey;border-collapse: separate;border-spacing: 20px 20px;border-bottom: 5px solid grey;
+border: 5px solid grey;margin:20px auto 20px;
+}
+table {border: 1px solid #69c;}
+th {
+  font-weight: normal;
+  color: black;
+  border-bottom: 2px dashed #69c;
+  padding: 12px 17px;
+}
+td {
+  color: darkblue;
+  border-bottom: 2px dashed #69c;
+  padding: 7px 17px;
+}
+tr:hover td {background: lightblue;}
