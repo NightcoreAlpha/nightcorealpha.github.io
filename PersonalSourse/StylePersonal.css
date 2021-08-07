@@ -10,20 +10,21 @@ body
 }
 .name{
     position: absolute;
-border-radius: 10px;
-padding: 10px;
-background: lightskyblue;
-opacity: 50%;
-top: 50%;
-left: 50%;
-transform: translateX(-50%) translateY(-50%);
-font-size: 66px;
+    border-radius: 10px;
+    padding: 10px 10px 50px 10px;
+    background: lightskyblue;
+    width: 434px;
+    opacity: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 66px;
 }
 
 .header{
-padding: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
     border-bottom:4px solid rgb(0, 50, 107);
-text-align: right;
+    text-align: right;
     color: white;
     background-color: rebeccapurple;
     
@@ -32,7 +33,6 @@ text-align: right;
     padding-left: 0px;
     padding-right: 50px;
     vertical-align: 50%;
-
 }
 .github{
     vertical-align: 50%;
@@ -42,4 +42,11 @@ text-align: right;
 }
 .imagemail{
     padding-left: 20px;
+}
+.slogan{
+    font-size: 30px;
+    position: absolute;
+    width: 405px;
+    padding: 0px 10px 0px 10px;
+    text-align-last: justify;
 }
