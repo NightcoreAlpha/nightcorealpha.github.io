@@ -14,7 +14,7 @@ body
     padding: 10px 10px 50px 10px;
     background: lightskyblue;
     width: 434px;
-    opacity: 50%;
+    opacity: 60%;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
@@ -26,7 +26,7 @@ body
     border-bottom:4px solid rgb(0, 50, 107);
     text-align: right;
     color: white;
-    background-color: rebeccapurple;
+    background-color: rgb(0, 117, 153);
     
 }
 .mail{
@@ -49,4 +49,8 @@ body
     width: 405px;
     padding: 0px 10px 0px 10px;
     text-align-last: justify;
+    white-space: nowrap;
+}
+.namename{
+    width: auto;
 }
