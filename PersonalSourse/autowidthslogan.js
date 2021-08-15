@@ -1,1 +1,0 @@
-document.getElementById('slogan').style.width = document.querySelector('#name').clientWidth;
