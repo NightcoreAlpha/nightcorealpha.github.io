@@ -1,6 +1,6 @@
 body 
 {
-    background-image: url(https://kartinkin.com/uploads/posts/2021-04/1617281683_37-p-neon-fon-40.jpg);
+    background-image: url(neon1.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -24,10 +24,10 @@ body
 .header{
     padding: 20px 0px 20px 0px;
     border-bottom:4px solid rgb(0, 50, 107);
-    text-align: right;
     color: white;
     background-color: rgb(0, 117, 153);
-    
+    display:flex;
+    justify-content: flex-end;
 }
 .mail{
     padding-left: 0px;
@@ -36,6 +36,7 @@ body
 }
 .github{
     vertical-align: 50%;
+    color: white;
 }
 .lineblock{
     display:inline-block;
@@ -50,4 +51,8 @@ body
     padding: 0px 10px 0px 10px;
     text-align-last: justify;
     white-space: pre;
+}
+.divmail{
+    display: flex;
+    align-content: center;
 }
